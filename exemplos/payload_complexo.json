@@ -1,0 +1,24 @@
+{
+  "pedido": {
+    "numero": 7301,
+    "cliente": {
+      "id": 418,
+      "nome": "Joana Ribeiro",
+      "ativo": true
+    },
+    "itens": [
+      {
+        "produto": "Livro de Python",
+        "quantidade": 2,
+        "preco_unitario": 49.9
+      },
+      {
+        "produto": "Caderno",
+        "quantidade": 1,
+        "preco_unitario": 18.5
+      }
+    ],
+    "desconto": null,
+    "pago": false
+  }
+}

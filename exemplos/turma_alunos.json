@@ -1,0 +1,17 @@
+{
+  "turma": "ADS-2A",
+  "alunos": [
+    {
+      "nome": "Marina Costa",
+      "matricula": "2024018"
+    },
+    {
+      "nome": "Lucas Ferreira",
+      "matricula": "2024021"
+    },
+    {
+      "nome": "Beatriz Souza",
+      "matricula": "2024030"
+    }
+  ]
+}
